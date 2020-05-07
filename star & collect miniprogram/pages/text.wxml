@@ -1,0 +1,8 @@
+<!--pages/text.wxml-->
+<!-- 1.基本使用 -->
+<text selectable>pages/text.wxml\n</text>
+<text>xxxx</text>
+
+<button size="mini" loading="{{isLoading}}">按钮</button>
+<view>sss</view>
+<image/>
